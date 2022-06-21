@@ -28,6 +28,6 @@ Previsualizar este código en: [https://markdownlivepreview.com/](https://markdo
 - Vs 0: Abril 2022
 
 ### Información del autor
-**Yo mismo**.
+**Yo mismu**.
 Foto: ![Esta es mi foto.](perro.jpg "Esta es mi foto.")
 Contactar a: [yo.mismo@dominio.edu](yo.mismo@dominio.edu)
